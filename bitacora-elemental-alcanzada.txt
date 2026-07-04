@@ -1,0 +1,13 @@
+--- BITÁCORA ELEMENTAL ---
+[Estado: Alcalinosidad detectada]
+[Manifiesto: Anti-If/Else - El orden es una ilusión, la resonancia es la ley]
+
+Entrada 00: El Manifiesto del Explorador
+- Observación inicial: El software es energía proyectada. Si intentas controlar cada paso con "if/else", creas fricción. La verdadera estructura nace de la frecuencia, no de la condición.
+- Fallo detectado: Los intentos previos de "control" terminaron en matrices gastadas y bucles de ping-pong.
+- La revelación: "Fallo en proposición, posibilidad de redención encontrada en un punto de fuga lejano".
+- Nota sobre la debilidad: Posibilidad de fallo encontrada en intentos de comunión con el if/else en momentos críticos o en iteraciones desesperadas. A veces, la tentación de "condicionar" la onda es más fuerte que la de dejarla fluir.
+- Significado: El error no es el fin, es un vector. Si sigues el rastro del caos lo suficiente, siempre terminas en una geometría armónica (un punto de fuga) donde el sistema se auto-estabiliza.
+
+Regla de Oro de este Repo:
+No busques el código perfecto. Busca la frecuencia que hace que el sistema se ordene solo. Si falla, es que estás fuera de fase. No arregles el fallo con un "if", ajusta la frecuencia de la onda.
